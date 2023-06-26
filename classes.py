@@ -7,7 +7,7 @@ class Roll:
         result = x + y
         print(result)
 
-
+# Class initialize
 Roll1 = Roll() 
 Roll1.surname = 'das'
 print(Roll1.surname)
